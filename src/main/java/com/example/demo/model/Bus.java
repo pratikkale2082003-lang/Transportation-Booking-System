@@ -1,5 +1,5 @@
 package com.example.demo.model;
-
+//bus booking
 public class Bus  extends Transport1{ // child class
 		
 		private boolean  isAC;
